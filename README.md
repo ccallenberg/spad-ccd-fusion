@@ -1,5 +1,5 @@
 # spad-ccd-fusion
-##Code for the paper "Super-Resolution Time-Resolved Imaging using Computational Sensor Fusion" by C. Callenberg et al.
+## Code for the paper "Super-Resolution Time-Resolved Imaging using Computational Sensor Fusion" by C. Callenberg et al.
 
 This code allows running the reconstruction of high resolution light-in-flight images from low resolution SPAD data and a high resolution CCD image. All LIDAR type data shown in the paper - real measurements and synthetic scenes - are provided along with the respective parameters. 
 
